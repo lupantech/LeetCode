@@ -1,3 +1,17 @@
+
+
+
+
+### Important Lists
+
+- [Top Interview Questions - Easy](https://leetcode.com/problemset/top-interview-questions/?difficulty=Easy)
+- [Top Interview Questions - Medium](https://leetcode.com/problemset/top-interview-questions/?difficulty=Medium)
+- [Top Interview Questions - Hard](https://leetcode.com/problemset/top-interview-questions/?difficulty=Hard)
+
+
+
+
+
 ### Easy Problem List
 
 
@@ -42,7 +56,7 @@
 1. [[326] Power of Three](https://leetcode.com/problems/power-of-three/description/), `Math`  [TODO]
 
 
-
+----------
 
 
 1. [[101] Tree](abc), `abc`, `abc`, `abc` 
