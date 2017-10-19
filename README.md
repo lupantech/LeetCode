@@ -11,10 +11,7 @@
 - [Leetcode 简略题解 - 共567题](https://zhuanlan.zhihu.com/p/25697275)
 
 
-----------
-
-
-
+### My Solutions
 | NO. | Title | Solution | Add Date | Difficulty | Topics |
 | --- | ----- | -------- | -------- | ---------- | ------ |
 | 001 | [Two Sum](https://leetcode.com/problems/two-sum/)| [C]() |  | Easy | `Array` `Hash Table`|
@@ -33,14 +30,6 @@
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/description/)| [C]() |  | Easy | `Dynamic Programming`|
 | xxx | [abc](abc)| [C]() |  | Easy | `abc` `abc`|
 
-
-
-
-
-----------
-
-
-1. [[101] Tree](abc), `abc`, `abc`, `abc` 
 
 
 
