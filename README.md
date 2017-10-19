@@ -34,14 +34,6 @@
 | xxx | [abc](abc)| [C]() |  | Easy | `abc` `abc`|
 
 
-| # | Problems | Solutions | Difficulty | Acceptance | Paid-Only
-|:--:|:-----:|:---------:|:----:|:----:|:----:|
-| 198 | [House Robber](https://leetcode.com/problems/house-robber/description/)| [C]() |  | Easy | `Dynamic Programming`|
-|002|[add-two-numbers](https://leetcode.com/problems/add-two-numbers/)| [javascript](.&#x2F;solutions&#x2F;002.add-two-numbers&#x2F;add-two-numbers.js) [java](.&#x2F;solutions&#x2F;002.add-two-numbers&#x2F;add-two-numbers.java)|Medium|27.64%||
-|003|[longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [javascript](.&#x2F;solutions&#x2F;003.longest-substring-without-repeating-characters&#x2F;longest-substring-without-repeating-characters.js) [java](.&#x2F;solutions&#x2F;003.longest-substring-without-repeating-characters&#x2F;longest-substring-without-repeating-characters.java)|Medium|24.27%|`Hash Table` `Bit Manipulation`|
-
-
-
 
 
 
