@@ -7,7 +7,18 @@ int singleNumber(int* nums, int numsSize) {
 }
 
 // Solution2: Hash
-
+int singleNumber(int* nums, int numsSize) {
+    const int NUM = 100000;
+    int count[2*NUM];
+    for (int i = 1; i < 2*NUM; i++) count[i] = 0;
+    
+    for (int j = 0; j < numsSize; j++) 
+        count[nums[j]+NUM] ++;
+    
+    for (int i = 1; i < 2*NUM; i++) 
+        if (count[i] == 1) return i-NUM;
+    return 0;
+}
 
 // Solution3: Sort
 int cmp (const void *a , const void *b) {
