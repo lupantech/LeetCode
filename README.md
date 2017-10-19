@@ -18,7 +18,7 @@
 | 007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)| [C]() |  | Easy | `Math` 
 | 014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)| [C]() |  | Easy | `String`|
 | 026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)| [C]() |  | Easy | `Array` `Two Pointers` |
-| 070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)| [C](solutions/136.single-numbe/solution.h) | 2017 | Easy | `Dynamic Programming` |
+| 070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)| [C]() |  | Easy | `Dynamic Programming` |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/)| [C]() |  | Easy | `Tree` `Depth-first Search` `Breadth-first Search` |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)| [C]() |  | Easy | `Array` `Dynamic Programming` |
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)| [C]() |  | Easy | `Array` `Greedy` |
