@@ -17,7 +17,7 @@
 
 | NO. | Title | Solution | Add Date | Difficulty | Topics |
 | --- | ----- | -------- | -------- | ---------- | ------ |
-| 001 | [Two Sum](https://leetcode.com/problems/two-sum/)| [C]() |  | Easy | `Array` `Hash Table`|
+| 001 | [longest-substring-without-repeating-characters](https://leetcode.com/problems/two-sum/)| [C]() |  | Easy | `Array` `Hash Table`|
 | 007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)| [C]() |  | Easy | `Math` 
 | 014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)| [C]() |  | Easy | `String`|
 | 026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)| [C]() |  | Easy | `Array` `Two Pointers` |
