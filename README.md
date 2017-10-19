@@ -7,56 +7,43 @@
 - [Top Interview Questions - Easy](https://leetcode.com/problemset/top-interview-questions/?difficulty=Easy)
 - [Top Interview Questions - Medium](https://leetcode.com/problemset/top-interview-questions/?difficulty=Medium)
 - [Top Interview Questions - Hard](https://leetcode.com/problemset/top-interview-questions/?difficulty=Hard)
+- [如何正确高效地使用LeetCode？](https://www.zhihu.com/question/26580300)
+- [Leetcode 简略题解 - 共567题](https://zhuanlan.zhihu.com/p/25697275)
+
+
+----------
+
+
+
+| NO. | Title | Solution | Add Date | Difficulty | Topics |
+| --- | ----- | -------- | -------- | ---------- | ------ |
+| 001 | [Two Sum](https://leetcode.com/problems/two-sum/)| [C]() |  | Easy | `Array` `Hash Table`|
+| 007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)| [C]() |  | Easy | `Math` 
+| 014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)| [C]() |  | Easy | `String`|
+| 026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)| [C]() |  | Easy | `Array` `Two Pointers` |
+| 070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)| [C]() |  | Easy | `Dynamic Programming` |
+| 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/)| [C]() |  | Easy | `Tree` `Depth-first Search` `Breadth-first Search` |
+| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)| [C]() |  | Easy | `Array` `Dynamic Programming` |
+| 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)| [C]() |  | Easy | `Array` `Greedy` |
+| 136 | [Single Number](https://leetcode.com/problems/single-number/description/)| [C]() |  | Easy | `Hash Table` `Bit Manipulation`|
+| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)| [C]() |  | Easy | `Linked List` `Two Pointers`|
+| 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)| [C]() |  | Easy | `Linked List`|
+| 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/description/)| [C]() |  | Easy | `Array` |
+| 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/)| [C]() |  | Easy | `Bit Manipulation` |
+| 198 | [House Robber](https://leetcode.com/problems/house-robber/description/)| [C]() |  | Easy | `Dynamic Programming`|
+| xxx | [abc](abc)| [C]() |  | Easy | `abc` `abc`|
 
 
 
 
 
-### Easy Problem List
 
-
-1.  [[1] Two Sum](https://leetcode.com/problems/two-sum/), `Array`, `Hash Table` [TODO]
-
-1.  [[7] Reverse Integer](https://leetcode.com/problems/reverse-integer/description/), `Math` [TODO]
-
-1.  [[14] Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/), `String` [TODO]
-
-1. [[26] Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/), `Array`,`Two Pointers` [TODO]
-
-1.  [[70] Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/), `Dynamic Programming`  [TODO]
-
-1. [[101] Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/), `Tree`, `Depth-first Search`, `Breadth-first Search`   [TODO]
-
-1. [[121] Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/), `Array`, `Dynamic Programming`  [TODO]
-
-1. [[122] Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/), `Array`, `Greedy`  [TODO]
-
-1. [[136] Single Number](https://leetcode.com/problems/single-number/description/), `Hash Table`, `Bit Manipulation`  [TODO]
-
-1. [[141] Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/), `Linked List`, `Two Pointers`  [TODO]
-
-1. [[160] Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/), `Linked List`  [TODO]
-
-1. [[189] Rotate Array](https://leetcode.com/problems/rotate-array/description/), `Array`  [TODO]
-
-1. [[191] Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/), `Bit Manipulation`  [TODO]
-
-1. [[198] House Robber](https://leetcode.com/problems/house-robber/description/), `Dynamic Programming`  [TODO]
-
-1. [[206] Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/), `Linked List`  [TODO]
-
-1. [[217] Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/), `Array`, `Hash Table`  [TODO]
-
-1. [[237] Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/), `Linked List`  [TODO]
- 
-1. [[242] Valid Anagram](https://leetcode.com/problems/valid-anagram/description/), `Hash Table`, `Sort`  [TODO]
-
-1. [[283] Move Zeroes](https://leetcode.com/problems/move-zeroes/description/), `Array`, `Two Pointers`  [TODO]
- 
-1. [[326] Power of Three](https://leetcode.com/problems/power-of-three/description/), `Math`  [TODO]
 
 
 ----------
 
 
 1. [[101] Tree](abc), `abc`, `abc`, `abc` 
+
+
+
