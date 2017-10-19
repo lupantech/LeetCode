@@ -22,3 +22,12 @@ Your algorithm should have a linear runtime complexity. Could you implement it w
 复杂度：**时间 O(N) 空间 O(N)**
 
 先将数组排序，再遍历一遍，找前后都不一样的那个数即可。
+
+``` cpp
+int cmp (const void *a , const void *b) {
+    return *(int *)a - *(int *)b;  //升序排序
+    //return *(int *)b - *(int *)a; //降序排序
+}
+qsort(nums, numsSize, sizeof(int), cmp);
+```
+    
