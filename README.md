@@ -26,7 +26,7 @@
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)| [C]() |  | Easy | `Linked List` `Two Pointers`|
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)| [C]() |  | Easy | `Linked List`|
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/description/)| [C]() |  | Easy | `Array` |
-| 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/)| [C]() |  | Easy | `Bit Manipulation` |
+| 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/)| [C](solutions/191.number-of-1-bits/solution.h) | 2017/10/20 | Easy | `Bit Manipulation` |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/description/)| [C]() |  | Easy | `Dynamic Programming`|
 | xxx | [abc](abc)| [C]() |  | Easy | `abc` `abc`|
 
