@@ -15,7 +15,7 @@
 | NO. | Title | Solution | Add Date | Difficulty | Topics |
 | --- | ----- | -------- | -------- | ---------- | ------ |
 | 001 | [Two Sum](https://leetcode.com/problems/two-sum/)| [C]() |  | Easy | `Array` `Hash Table`|
-| 007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)| [C](solutions/136.reverse-integer/solution.h) | 2017/10/20 | Easy | `Math` 
+| 007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)| [C](solutions/007.reverse-integer/solution.h) | 2017/10/20 | Easy | `Math` 
 | 014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)| [C]() |  | Easy | `String`|
 | 026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)| [C]() |  | Easy | `Array` `Two Pointers` |
 | 070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)| [C]() |  | Easy | `Dynamic Programming` |
