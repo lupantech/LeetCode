@@ -18,7 +18,7 @@
 | 007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)| [C](solutions/007.reverse-integer/solution.h) | 2017/10/20 | Easy | `Math` 
 | 014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)| [C](solutions/014.longest-common-prefix/solution.h) | 2017/10/27 | Easy | `String`|
 | 026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)| [C](solutions/026.remove-duplicates-from-sorted-array/solution.h) | 2017/10/27 | Easy | `Array` `Two Pointers` |
-| 070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)| [C]() |  | Easy | `Dynamic Programming` |
+| 070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)| [C](solutions/070.climbing-stairs/solution.h) | 2017/10/27 | Easy | `Dynamic Programming` |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/)| [C]() |  | Easy | `Tree` `Depth-first Search` `Breadth-first Search` |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)| [C](solutions/121.best-time-to-buy-and-sell-stock/solution.h) | 2017/10/27 | Easy | `Array` `Dynamic Programming` |
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)| [C](solutions/122.best-time-to-buy-and-sell-stock-ii/solution.h) | 2017/10/27 | Easy | `Array` `Greedy` |
