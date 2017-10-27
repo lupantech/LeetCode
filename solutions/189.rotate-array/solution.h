@@ -12,7 +12,6 @@ void rotate(int* nums, int numsSize, int k) {
         nums[i] = arrTmp[(i+numsSize-k) % numsSize];
 }
 
-
 // Solution3: Rotate
 void reverse(int* nums, int s, int e) {
     int tmp;
