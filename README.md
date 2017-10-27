@@ -24,7 +24,7 @@
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)| [C](solutions/122.best-time-to-buy-and-sell-stock-ii/solution.h) | 2017/10/27 | Easy | `Array` `Greedy` |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/description/)| [C](solutions/160.intersection-of-two-linked-lists/solution.h) | 2017/10/20 | Easy | `Hash Table` `Bit Manipulation`|
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)| [C](solutions/141.linked-list-cycle/solution.h) | 2017/10/27 | Easy | `Linked List` `Two Pointers`|
-| 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)| [C](solutions/141.linked-list-cycle/solution.h) | 2017/10/27 | Easy | `Linked List`|
+| 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)| [C](solutions/160.intersection-of-two-linked-lists/solution.h) | 2017/10/27 | Easy | `Linked List`|
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/description/)| [C](solutions/189.rotate-array/solution.h) | 2017/10/27 | Easy | `Array` |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/)| [C](solutions/191.number-of-1-bits/solution.h) | 2017/10/20 | Easy | `Bit Manipulation` |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/description/)| [C]() |  | Easy | `Dynamic Programming`|
