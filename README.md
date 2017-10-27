@@ -21,7 +21,7 @@
 | 070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)| [C]() |  | Easy | `Dynamic Programming` |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/)| [C]() |  | Easy | `Tree` `Depth-first Search` `Breadth-first Search` |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)| [C](121.best-time-to-buy-and-sell-stock/description/) | 2017/10/27 | Easy | `Array` `Dynamic Programming` |
-| 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)| [C]() |  | Easy | `Array` `Greedy` |
+| 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)| [C](122.best-time-to-buy-and-sell-stock-ii/description/) | 2017/10/27 | Easy | `Array` `Greedy` |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/description/)| [C](solutions/136.single-numbe/solution.h) | 2017/10/20 | Easy | `Hash Table` `Bit Manipulation`|
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)| [C]() |  | Easy | `Linked List` `Two Pointers`|
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)| [C]() |  | Easy | `Linked List`|
