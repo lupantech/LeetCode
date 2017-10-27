@@ -28,5 +28,3 @@ void rotate(int* nums, int numsSize, int k) {
     reverse(nums, numsSize-k, numsSize-1);  //nums[4-6]: [5,6,7]
     reverse(nums, 0, numsSize-1);          //nums[0-6]: [4,3,2,1,7,6,5]
 }
-
-ttttttt
