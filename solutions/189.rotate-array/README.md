@@ -1,24 +1,20 @@
 ### Problem
-Write a function that takes an unsigned integer and returns the number of ’1' bits it has (also known as the Hamming weight).
+Rotate an array of n elements to the right by k steps.
 
-For example, the 32-bit integer ’11' has binary representation `00000000000000000000000000001011`, so the function should return 3.
+For example, with n = 7 and k = 3, the array [1,2,3,4,5,6,7] is rotated to [5,6,7,1,2,3,4].
 
 **Note**:
 
-The input is assumed to be a 32-bit signed integer. Your function should return 0 when the reversed integer overflows.
+Try to come up as many solutions as you can, there are at least 3 different ways to solve this problem.
 
 
 ### Analysis
-n & (n - 1) drops the lowest set bit. It's a neat little bit trick.
+方法一：复制临时数组
+- 时间复杂度O(n)，空间复杂度O(n) 
 
-Let's use n = 00101100 as an example. This binary representation has three 1s.
+方法二：逐个推移
+- 时间复杂度O(n)，空间复杂度O(1) 
+（超时）
 
-If n = 00101100, then n - 1 = 00101011, so n & (n - 1) = 00101100 & 00101011 = 00101000. Count = 1.
-
-If n = 00101000, then n - 1 = 00100111, so n & (n - 1) = 00101000 & 00100111 = 00100000. Count = 2.
-
-If n = 00100000, then n - 1 = 00011111, so n & (n - 1) = 00100000 & 00011111 = 00000000. Count = 3.
-
-n is now zero, so the while loop ends, and the final count (the numbers of set bits) is returned.
-
-
+方法三：翻转
+- 时间复杂度O(n)，空间复杂度O(1) 
