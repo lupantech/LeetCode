@@ -21,3 +21,8 @@ dp[i] = max(num[i] + dp[i - 2], dp[i - 1])   （当i !=0 and i != 1时）
 ``` cpp
 if (numsSize == 0) return 0; // Important !!!
 ```
+
+2. max函数定义
+``` cpp
+#define max(a, b) (a>b?a:b)
+```
