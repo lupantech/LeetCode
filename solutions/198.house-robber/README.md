@@ -7,7 +7,7 @@ Given a list of non-negative integers representing the amount of money of each h
 这道题的本质相当于在一列数组中取出一个或多个不相邻数，使其和最大。 
 
 这是一道动态规划问题。 
-我们维护一个一位数组dp，其中dp[i]表示到i位置时不相邻数能形成的最大和。 
+我们维护一个一维数组dp，其中dp[i]表示到i位置时不相邻数能形成的最大和。 
 
 状态转移方程：
 ```
