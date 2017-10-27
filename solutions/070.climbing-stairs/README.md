@@ -11,7 +11,7 @@ Each time you can either climb 1 or 2 steps. In how many distinct ways can you c
 
 
 ```
-f(2) = n1+n2 = f(1)+f(0)
+f(2) = n1+n2 = f(1)+f(0) = 1 + 1
 ......
 f(6) = n1+n2 = f(5)+f(4)
 - n1 = f(5)
