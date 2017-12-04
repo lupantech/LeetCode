@@ -16,4 +16,4 @@ Write a function to find the longest common prefix string amongst an array of st
 ``` cpp
 if (strsSize == 0) return "";
 ```
-- `str[j] = 0;` 等价于 `str[j] = `'\0'`
+- `str[j] = 0;` 等价于 `str[j] = '\0'`
